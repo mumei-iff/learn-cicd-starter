@@ -10,6 +10,7 @@ Create a `.env` file in the root of the project with the following contents:
 
 ```bash
 PORT="8080"
+DDD=""
 ```
 
 Run the server:
